@@ -1781,7 +1781,7 @@
 	)
 	(hierarchical_label "RLY_1_NC"
 		(shape output)
-		(at 227.33 157.48 0)
+		(at 233.68 143.51 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1792,7 +1792,7 @@
 	)
 	(hierarchical_label "RLY_1_NO"
 		(shape output)
-		(at 227.33 160.02 0)
+		(at 233.68 146.05 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1803,7 +1803,7 @@
 	)
 	(hierarchical_label "RLY_2_NC"
 		(shape output)
-		(at 207.01 157.48 0)
+		(at 210.82 143.51 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1968,7 +1968,7 @@
 	)
 	(hierarchical_label "RLY_2_NO"
 		(shape output)
-		(at 207.01 160.02 0)
+		(at 210.82 146.05 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1979,7 +1979,7 @@
 	)
 	(hierarchical_label "RLY_2_COM"
 		(shape output)
-		(at 207.01 154.94 0)
+		(at 210.82 140.97 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2012,7 +2012,7 @@
 	)
 	(hierarchical_label "RLY_1_COM"
 		(shape output)
-		(at 227.33 154.94 0)
+		(at 233.68 140.97 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2314,7 +2314,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "5cf575ab-6800-4b14-b8c4-dce6e550c75c")
 		(property "Reference" "#PWR016"
 			(at 154.94 72.39 0)
@@ -2326,7 +2325,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 154.94 63.5 0)
+			(at 154.94 64.262 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2649,7 +2648,7 @@
 		)
 	)
 	(sheet
-		(at 227.33 142.24)
+		(at 233.68 128.27)
 		(size 17.78 10.16)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2665,7 +2664,7 @@
 		)
 		(uuid "046ce629-3f56-4f48-b2c7-d6e93ff2fbb5")
 		(property "Sheetname" "RLY_MODULE_1"
-			(at 227.33 141.5284 0)
+			(at 233.68 127.5584 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2676,7 +2675,7 @@
 			)
 		)
 		(property "Sheetfile" "RLY_MODULE_1.kicad_sch"
-			(at 227.33 152.9846 0)
+			(at 233.68 139.0146 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2957,7 +2956,7 @@
 		)
 	)
 	(sheet
-		(at 207.01 142.24)
+		(at 210.82 128.27)
 		(size 17.78 10.16)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2973,7 +2972,7 @@
 		)
 		(uuid "d479ca74-4917-4193-a7ba-8c6ee20dd1d6")
 		(property "Sheetname" "RLY_MODULE_2"
-			(at 207.01 141.5284 0)
+			(at 210.82 127.5584 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2984,7 +2983,7 @@
 			)
 		)
 		(property "Sheetfile" "RLY_MODULE_2.kicad_sch"
-			(at 207.01 152.9846 0)
+			(at 210.82 139.0146 0)
 			(effects
 				(font
 					(size 1.27 1.27)
