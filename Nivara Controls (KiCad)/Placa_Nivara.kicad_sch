@@ -1781,7 +1781,7 @@
 	)
 	(hierarchical_label "RLY_1_NC"
 		(shape output)
-		(at 36.83 31.75 0)
+		(at 227.33 157.48 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1792,7 +1792,7 @@
 	)
 	(hierarchical_label "RLY_1_NO"
 		(shape output)
-		(at 36.83 34.29 0)
+		(at 227.33 160.02 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1803,7 +1803,7 @@
 	)
 	(hierarchical_label "RLY_2_NC"
 		(shape output)
-		(at 16.51 31.75 0)
+		(at 207.01 157.48 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1814,7 +1814,7 @@
 	)
 	(hierarchical_label "PNP_input_1"
 		(shape input)
-		(at 58.42 45.72 0)
+		(at 53.34 142.24 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1836,7 +1836,7 @@
 	)
 	(hierarchical_label "NPN_input_1"
 		(shape input)
-		(at 58.42 26.67 0)
+		(at 53.34 123.19 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1869,7 +1869,7 @@
 	)
 	(hierarchical_label "NPN_input_2"
 		(shape input)
-		(at 58.42 29.21 0)
+		(at 53.34 125.73 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1891,7 +1891,7 @@
 	)
 	(hierarchical_label "PNP_OUT_1"
 		(shape output)
-		(at 82.55 45.72 0)
+		(at 77.47 142.24 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1902,7 +1902,7 @@
 	)
 	(hierarchical_label "PNP_input_2"
 		(shape input)
-		(at 58.42 48.26 0)
+		(at 53.34 144.78 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1935,7 +1935,7 @@
 	)
 	(hierarchical_label "PNP_OUT_2"
 		(shape output)
-		(at 82.55 48.26 0)
+		(at 77.47 144.78 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1946,7 +1946,7 @@
 	)
 	(hierarchical_label "NPN_OUT_1"
 		(shape output)
-		(at 82.55 26.67 0)
+		(at 77.47 123.19 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1957,7 +1957,7 @@
 	)
 	(hierarchical_label "NPN_OUT_2"
 		(shape output)
-		(at 82.55 29.21 0)
+		(at 77.47 125.73 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1968,7 +1968,7 @@
 	)
 	(hierarchical_label "RLY_2_NO"
 		(shape output)
-		(at 16.51 34.29 0)
+		(at 207.01 160.02 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1979,7 +1979,7 @@
 	)
 	(hierarchical_label "RLY_2_COM"
 		(shape output)
-		(at 16.51 29.21 0)
+		(at 207.01 154.94 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2012,7 +2012,7 @@
 	)
 	(hierarchical_label "RLY_1_COM"
 		(shape output)
-		(at 36.83 29.21 0)
+		(at 227.33 154.94 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2649,7 +2649,7 @@
 		)
 	)
 	(sheet
-		(at 36.83 16.51)
+		(at 227.33 142.24)
 		(size 17.78 10.16)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2665,7 +2665,7 @@
 		)
 		(uuid "046ce629-3f56-4f48-b2c7-d6e93ff2fbb5")
 		(property "Sheetname" "RLY_MODULE_1"
-			(at 36.83 15.7984 0)
+			(at 227.33 141.5284 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2676,7 +2676,7 @@
 			)
 		)
 		(property "Sheetfile" "RLY_MODULE_1.kicad_sch"
-			(at 36.83 27.2546 0)
+			(at 227.33 152.9846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2777,7 +2777,7 @@
 		)
 	)
 	(sheet
-		(at 58.42 16.51)
+		(at 53.34 113.03)
 		(size 21.59 7.62)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2793,7 +2793,7 @@
 		)
 		(uuid "1d56f2ae-86b2-4303-b6cf-39a6bc4c3d5f")
 		(property "Sheetname" "Input_NPN"
-			(at 58.42 15.7984 0)
+			(at 53.34 112.3184 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2804,7 +2804,7 @@
 			)
 		)
 		(property "Sheetfile" "Input_NPN.kicad_sch"
-			(at 58.42 24.7146 0)
+			(at 53.34 121.2346 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2822,7 +2822,7 @@
 		)
 	)
 	(sheet
-		(at 82.55 16.51)
+		(at 77.47 113.03)
 		(size 21.59 7.62)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2838,7 +2838,7 @@
 		)
 		(uuid "521bc3d4-5798-4752-87bd-4f3d242ddc84")
 		(property "Sheetname" "Output_NPN"
-			(at 82.55 15.7984 0)
+			(at 77.47 112.3184 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2849,7 +2849,7 @@
 			)
 		)
 		(property "Sheetfile" "Output_NPN.kicad_sch"
-			(at 82.55 24.7146 0)
+			(at 77.47 121.2346 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2867,7 +2867,7 @@
 		)
 	)
 	(sheet
-		(at 82.55 35.56)
+		(at 77.47 132.08)
 		(size 21.59 7.62)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2883,7 +2883,7 @@
 		)
 		(uuid "8cb3855c-1036-4639-b2fc-e41c31887560")
 		(property "Sheetname" "Output_PNP"
-			(at 82.55 34.8484 0)
+			(at 77.47 131.3684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2894,7 +2894,7 @@
 			)
 		)
 		(property "Sheetfile" "Output_PNP.kicad_sch"
-			(at 82.55 43.7646 0)
+			(at 77.47 140.2846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2912,7 +2912,7 @@
 		)
 	)
 	(sheet
-		(at 105.41 16.51)
+		(at 54.61 54.61)
 		(size 20.32 5.08)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2928,7 +2928,7 @@
 		)
 		(uuid "c1467157-2d50-4128-9fe2-8c0bcc5bdb9f")
 		(property "Sheetname" "Powersupply"
-			(at 105.41 15.7984 0)
+			(at 54.61 53.8984 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2939,7 +2939,7 @@
 			)
 		)
 		(property "Sheetfile" "Powersupply.kicad_sch"
-			(at 105.41 22.1746 0)
+			(at 54.61 60.2746 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2957,7 +2957,7 @@
 		)
 	)
 	(sheet
-		(at 16.51 16.51)
+		(at 207.01 142.24)
 		(size 17.78 10.16)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2973,7 +2973,7 @@
 		)
 		(uuid "d479ca74-4917-4193-a7ba-8c6ee20dd1d6")
 		(property "Sheetname" "RLY_MODULE_2"
-			(at 16.51 15.7984 0)
+			(at 207.01 141.5284 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2984,7 +2984,7 @@
 			)
 		)
 		(property "Sheetfile" "RLY_MODULE_2.kicad_sch"
-			(at 16.51 27.2546 0)
+			(at 207.01 152.9846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3002,7 +3002,7 @@
 		)
 	)
 	(sheet
-		(at 58.42 35.56)
+		(at 53.34 132.08)
 		(size 21.59 7.62)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3018,7 +3018,7 @@
 		)
 		(uuid "d6d4f6f7-bfd3-43e1-a94b-2993a59c2239")
 		(property "Sheetname" "Input_PNP"
-			(at 58.42 34.8484 0)
+			(at 53.34 131.3684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3029,7 +3029,7 @@
 			)
 		)
 		(property "Sheetfile" "Input_PNP.kicad_sch"
-			(at 58.42 43.7646 0)
+			(at 53.34 140.2846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
