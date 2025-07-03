@@ -1620,16 +1620,6 @@
 	)
 	(wire
 		(pts
-			(xy 200.66 82.55) (xy 207.01 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "051f683a-a375-4bbc-98e2-1212dd5f79d7")
-	)
-	(wire
-		(pts
 			(xy 92.71 80.01) (xy 92.71 81.28)
 		)
 		(stroke
@@ -1670,6 +1660,16 @@
 	)
 	(wire
 		(pts
+			(xy 200.66 80.01) (xy 207.01 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4c88fdc3-1e62-4e56-880d-57c5f2c800e3")
+	)
+	(wire
+		(pts
 			(xy 85.09 95.25) (xy 85.09 99.06)
 		)
 		(stroke
@@ -1680,13 +1680,13 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 80.01) (xy 234.95 80.01)
+			(xy 200.66 82.55) (xy 207.01 82.55)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6dbf6137-cd86-45cd-925c-91e9c875c8cd")
+		(uuid "7085046c-bbb3-46ef-904b-008950f00ca3")
 	)
 	(wire
 		(pts
@@ -1700,13 +1700,13 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 82.55) (xy 234.95 82.55)
+			(xy 236.22 82.55) (xy 240.03 82.55)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "7a2c749a-c5de-456d-98ac-09bb0a60f03f")
+		(uuid "81a51193-a6d1-440a-a4de-6dc937984898")
 	)
 	(wire
 		(pts
@@ -1760,13 +1760,13 @@
 	)
 	(wire
 		(pts
-			(xy 200.66 80.01) (xy 207.01 80.01)
+			(xy 236.22 80.01) (xy 240.03 80.01)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "dd55d46c-37cc-4ff4-9d1e-0b9bcc9e0d19")
+		(uuid "dd15f2fa-06c0-427b-ae5b-50140d80d38a")
 	)
 	(hierarchical_label "Analog_4-20_input_1"
 		(shape input)
@@ -1990,7 +1990,7 @@
 	)
 	(hierarchical_label "RS485-B"
 		(shape bidirectional)
-		(at 234.95 82.55 0)
+		(at 240.03 82.55 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2023,7 +2023,7 @@
 	)
 	(hierarchical_label "RS485-A"
 		(shape bidirectional)
-		(at 234.95 80.01 0)
+		(at 240.03 80.01 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2693,8 +2693,8 @@
 		)
 	)
 	(sheet
-		(at 207.01 76.2)
-		(size 24.13 10.16)
+		(at 207.01 77.47)
+		(size 29.21 11.43)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -2709,7 +2709,7 @@
 		)
 		(uuid "0e992bd9-df1d-46c0-8773-93ffa0ff8af8")
 		(property "Sheetname" "Driver_RS485"
-			(at 207.01 75.4884 0)
+			(at 207.01 76.7584 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2718,7 +2718,7 @@
 			)
 		)
 		(property "Sheetfile" "Driver_RS485.kicad_sch"
-			(at 207.01 86.9446 0)
+			(at 207.01 89.4846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2727,9 +2727,9 @@
 				(hide yes)
 			)
 		)
-		(pin "RS485-A" output
-			(at 231.14 80.01 0)
-			(uuid "bf92d04f-3264-437a-ae7c-c9d41f053a7d")
+		(pin "GPIO_control" output
+			(at 236.22 86.36 0)
+			(uuid "cd60ae43-26a3-476a-a7d2-600948c0480d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2737,9 +2737,19 @@
 				(justify right)
 			)
 		)
-		(pin "RS485-B" output
-			(at 231.14 82.55 0)
-			(uuid "ed088bbc-5632-4822-a236-0c05a7e2f827")
+		(pin "RS485-A" bidirectional
+			(at 236.22 80.01 0)
+			(uuid "f52c6232-1e50-442f-84fa-775adaa89720")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "RS485-B" bidirectional
+			(at 236.22 82.55 0)
+			(uuid "e241a13d-2236-4f35-a023-32b5f5e98a66")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2749,7 +2759,7 @@
 		)
 		(pin "UART_IN" input
 			(at 207.01 80.01 180)
-			(uuid "27323dc8-fd83-4754-ac5c-9dc07f727b57")
+			(uuid "e35efeb3-003b-4eba-9bfb-44031816a63e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2759,7 +2769,7 @@
 		)
 		(pin "UART_OUT" output
 			(at 207.01 82.55 180)
-			(uuid "821b87d4-2dfe-449d-9581-0a01eecfc862")
+			(uuid "1412e5f8-cac7-41c3-aa61-a9a54d508188")
 			(effects
 				(font
 					(size 1.27 1.27)
