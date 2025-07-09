@@ -1803,7 +1803,7 @@
 	)
 	(hierarchical_label "RLY_2_NC"
 		(shape output)
-		(at 210.82 143.51 0)
+		(at 220.98 132.08 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1968,7 +1968,7 @@
 	)
 	(hierarchical_label "RLY_2_NO"
 		(shape output)
-		(at 210.82 146.05 0)
+		(at 220.98 134.62 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1979,7 +1979,7 @@
 	)
 	(hierarchical_label "RLY_2_COM"
 		(shape output)
-		(at 210.82 140.97 0)
+		(at 220.98 129.54 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2961,51 +2961,6 @@
 			(project "Nivara Controls"
 				(path "/42622735-4343-4315-af64-a45701a752b6/711b914f-41ac-411e-bef3-8ade05c9a19b"
 					(page "3")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 210.82 128.27)
-		(size 17.78 10.16)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "d479ca74-4917-4193-a7ba-8c6ee20dd1d6")
-		(property "Sheetname" "RLY_MODULE_2"
-			(at 210.82 127.5584 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "RLY_MODULE_2.kicad_sch"
-			(at 210.82 139.0146 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "Nivara Controls"
-				(path "/42622735-4343-4315-af64-a45701a752b6/711b914f-41ac-411e-bef3-8ade05c9a19b"
-					(page "10")
 				)
 			)
 		)
