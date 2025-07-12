@@ -1483,7 +1483,7 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 142.24) (xy 143.51 142.24)
+			(xy 139.7 142.24) (xy 143.51 142.24)
 		)
 		(stroke
 			(width 0)
@@ -1543,7 +1543,7 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 144.78) (xy 143.51 144.78)
+			(xy 139.7 144.78) (xy 143.51 144.78)
 		)
 		(stroke
 			(width 0)
@@ -2157,7 +2157,7 @@
 	)
 	(symbol
 		(lib_id "PCM_SL_Screw_Terminal:Screw_Terminal_2_P5.00mm")
-		(at 134.62 143.51 180)
+		(at 135.89 143.51 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2165,7 +2165,7 @@
 		(dnp no)
 		(uuid "2d75516d-8cf9-42ab-85ca-bf0f916e958b")
 		(property "Reference" "J5"
-			(at 129.794 144.018 0)
+			(at 131.064 144.018 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2173,7 +2173,7 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_2_P5.00mm"
-			(at 133.985 138.43 0)
+			(at 135.255 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2182,7 +2182,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal"
-			(at 133.35 137.16 0)
+			(at 134.62 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2191,7 +2191,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 134.62 143.51 0)
+			(at 135.89 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2200,7 +2200,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 134.62 143.51 0)
+			(at 135.89 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2209,7 +2209,7 @@
 			)
 		)
 		(property "Part Number" ""
-			(at 134.62 143.51 0)
+			(at 135.89 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
