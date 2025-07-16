@@ -1092,30 +1092,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(rectangle
-		(start 55.88 29.21)
-		(end 143.51 77.47)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(fill
-			(type none)
-		)
-		(uuid 7330d9bc-4aa4-46df-a852-a7f06782044c)
-	)
-	(rectangle
-		(start 55.88 85.09)
-		(end 143.51 134.62)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(fill
-			(type none)
-		)
-		(uuid 93e329a4-aa7e-451c-8d96-1f32622d588e)
-	)
 	(junction
 		(at 91.44 114.3)
 		(diameter 0)
