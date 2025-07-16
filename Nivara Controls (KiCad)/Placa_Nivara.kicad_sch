@@ -1640,6 +1640,16 @@
 	)
 	(wire
 		(pts
+			(xy 233.68 105.41) (xy 236.22 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13bd1e21-a90c-424f-804e-958141f1f79b")
+	)
+	(wire
+		(pts
 			(xy 229.87 67.31) (xy 227.33 67.31)
 		)
 		(stroke
@@ -1650,7 +1660,17 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 148.59) (xy 219.71 148.59)
+			(xy 233.68 107.95) (xy 236.22 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "28e98f34-7401-49ab-8b2e-34394baf39ca")
+	)
+	(wire
+		(pts
+			(xy 189.23 132.08) (xy 191.77 132.08)
 		)
 		(stroke
 			(width 0)
@@ -1680,7 +1700,7 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 106.68) (xy 219.71 106.68)
+			(xy 233.68 118.11) (xy 236.22 118.11)
 		)
 		(stroke
 			(width 0)
@@ -1707,16 +1727,6 @@
 			(type default)
 		)
 		(uuid "4c88fdc3-1e62-4e56-880d-57c5f2c800e3")
-	)
-	(wire
-		(pts
-			(xy 217.17 88.9) (xy 219.71 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "651c16bd-c68d-4636-b272-7cd309425009")
 	)
 	(wire
 		(pts
@@ -1760,16 +1770,6 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 73.66) (xy 217.17 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7e7be24c-f86f-460a-9c5c-b7a1d38a85e5")
-	)
-	(wire
-		(pts
 			(xy 228.6 40.64) (xy 232.41 40.64)
 		)
 		(stroke
@@ -1780,7 +1780,17 @@
 	)
 	(wire
 		(pts
-			(xy 219.71 129.54) (xy 222.25 129.54)
+			(xy 233.68 90.17) (xy 237.49 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "949c1ae4-8a60-4391-89b0-73836d89f34c")
+	)
+	(wire
+		(pts
+			(xy 236.22 140.97) (xy 238.76 140.97)
 		)
 		(stroke
 			(width 0)
@@ -1800,6 +1810,16 @@
 	)
 	(wire
 		(pts
+			(xy 233.68 87.63) (xy 237.49 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1a55c80-5949-4f36-bdda-2e6eb61fb60a")
+	)
+	(wire
+		(pts
 			(xy 77.47 38.1) (xy 85.09 38.1)
 		)
 		(stroke
@@ -1810,17 +1830,7 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 76.2) (xy 217.17 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a7fa8c1d-ec5d-423e-8ca0-2da06a8c7696")
-	)
-	(wire
-		(pts
-			(xy 217.17 146.05) (xy 219.71 146.05)
+			(xy 189.23 129.54) (xy 191.77 129.54)
 		)
 		(stroke
 			(width 0)
@@ -1830,7 +1840,7 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 152.4) (xy 219.71 152.4)
+			(xy 189.23 135.89) (xy 191.77 135.89)
 		)
 		(stroke
 			(width 0)
@@ -1840,17 +1850,7 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 91.44) (xy 219.71 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c621d024-8d4d-4ecd-bda9-c9810c7872d7")
-	)
-	(wire
-		(pts
-			(xy 217.17 118.11) (xy 219.71 118.11)
+			(xy 233.68 129.54) (xy 236.22 129.54)
 		)
 		(stroke
 			(width 0)
@@ -1900,7 +1900,7 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 154.94) (xy 219.71 154.94)
+			(xy 189.23 138.43) (xy 191.77 138.43)
 		)
 		(stroke
 			(width 0)
@@ -1920,7 +1920,7 @@
 	)
 	(hierarchical_label "Analog_4-20_input_1"
 		(shape input)
-		(at 222.25 129.54 0)
+		(at 238.76 140.97 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1964,7 +1964,7 @@
 	)
 	(hierarchical_label "PNP_input_1"
 		(shape input)
-		(at 219.71 88.9 0)
+		(at 236.22 105.41 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1975,7 +1975,7 @@
 	)
 	(hierarchical_label "Analog_4_20_OUT_1"
 		(shape output)
-		(at 27.94 64.77 0)
+		(at 106.68 148.59 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1986,7 +1986,7 @@
 	)
 	(hierarchical_label "NPN_input_1"
 		(shape input)
-		(at 217.17 73.66 0)
+		(at 237.49 87.63 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1997,7 +1997,7 @@
 	)
 	(hierarchical_label "-Digit_input_1_-"
 		(shape input)
-		(at 219.71 148.59 0)
+		(at 191.77 132.08 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2019,7 +2019,7 @@
 	)
 	(hierarchical_label "+Digit_input_2_+"
 		(shape input)
-		(at 219.71 152.4 0)
+		(at 191.77 135.89 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2030,7 +2030,7 @@
 	)
 	(hierarchical_label "NPN_input_2"
 		(shape input)
-		(at 217.17 76.2 0)
+		(at 237.49 90.17 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2041,7 +2041,7 @@
 	)
 	(hierarchical_label "Analof_0_10_OUT_1"
 		(shape output)
-		(at 27.94 67.31 0)
+		(at 138.43 130.81 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2063,7 +2063,7 @@
 	)
 	(hierarchical_label "PNP_input_2"
 		(shape input)
-		(at 219.71 91.44 0)
+		(at 236.22 107.95 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2074,7 +2074,7 @@
 	)
 	(hierarchical_label "Analog_0-10_input_1"
 		(shape input)
-		(at 219.71 106.68 0)
+		(at 236.22 118.11 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2085,7 +2085,7 @@
 	)
 	(hierarchical_label "Analog_0-32_input_1"
 		(shape input)
-		(at 219.71 118.11 0)
+		(at 236.22 129.54 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2129,7 +2129,7 @@
 	)
 	(hierarchical_label "-Digit_input_2_-"
 		(shape input)
-		(at 219.71 154.94 0)
+		(at 191.77 138.43 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2173,7 +2173,7 @@
 	)
 	(hierarchical_label "+Digit_input_1_+"
 		(shape input)
-		(at 219.71 146.05 0)
+		(at 191.77 129.54 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2944,7 +2944,7 @@
 		)
 	)
 	(sheet
-		(at 199.39 101.6)
+		(at 215.9 113.03)
 		(size 17.78 7.62)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2960,7 +2960,7 @@
 		)
 		(uuid "052994b8-ae64-4dbc-9745-12b0d0d230e0")
 		(property "Sheetname" "0v__10v_Module"
-			(at 199.39 100.8884 0)
+			(at 215.9 112.3184 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2971,7 +2971,7 @@
 			)
 		)
 		(property "Sheetfile" "0v__10v_Module.kicad_sch"
-			(at 199.39 109.8046 0)
+			(at 215.9 121.2346 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2981,7 +2981,7 @@
 			)
 		)
 		(pin "A_0v__10v__in" input
-			(at 217.17 106.68 0)
+			(at 233.68 118.11 0)
 			(uuid "a4dad0e8-d58c-4ff9-9a86-1ddf56b8138a")
 			(effects
 				(font
@@ -2991,7 +2991,7 @@
 			)
 		)
 		(pin "D_0v__10v" output
-			(at 199.39 104.14 180)
+			(at 215.9 115.57 180)
 			(uuid "e30567af-4076-48a8-8117-5b3126517df4")
 			(effects
 				(font
@@ -3103,8 +3103,8 @@
 		)
 	)
 	(sheet
-		(at 199.39 71.12)
-		(size 15.24 11.43)
+		(at 215.9 78.74)
+		(size 17.78 13.97)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -3118,7 +3118,7 @@
 		)
 		(uuid "1d56f2ae-86b2-4303-b6cf-39a6bc4c3d5f")
 		(property "Sheetname" "Input_NPN"
-			(at 199.39 70.866 0)
+			(at 215.9 78.486 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3129,7 +3129,7 @@
 			)
 		)
 		(property "Sheetfile" "Input_NPN.kicad_sch"
-			(at 199.39 86.9446 0)
+			(at 215.9 94.5646 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3138,9 +3138,9 @@
 				(hide yes)
 			)
 		)
-		(pin "NPN_INPUT" output
-			(at 199.39 80.01 180)
-			(uuid "9d516ded-d344-4bd3-ac5c-4fba1bbdcaa7")
+		(pin "NPN-Digit_1" output
+			(at 215.9 81.28 180)
+			(uuid "683e552b-ea23-4c3a-b288-420aa26a1648")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3148,9 +3148,19 @@
 				(justify left)
 			)
 		)
-		(pin "NPN__IN_+" input
-			(at 214.63 73.66 0)
-			(uuid "b50ce353-0e1a-41bc-b847-a12b7f48f412")
+		(pin "NPN-Digit_2" output
+			(at 215.9 83.82 180)
+			(uuid "220dfa7f-f192-4d89-bf03-2814c796f390")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "NPN_in_1" input
+			(at 233.68 87.63 0)
+			(uuid "144690cd-23c2-47a2-a6a5-82dedfe3eec3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3158,9 +3168,9 @@
 				(justify right)
 			)
 		)
-		(pin "NPN__IN_-" input
-			(at 214.63 76.2 0)
-			(uuid "5368abd6-7ec1-4741-adb9-a77b8487d2a5")
+		(pin "NPN_in_2" input
+			(at 233.68 90.17 0)
+			(uuid "f9b2b49f-838e-4bb0-a466-1dbdc30ff6be")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3177,7 +3187,7 @@
 		)
 	)
 	(sheet
-		(at 199.39 124.46)
+		(at 215.9 135.89)
 		(size 20.32 7.62)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3193,7 +3203,7 @@
 		)
 		(uuid "443be838-dc57-4801-ae0f-9729ee2511c1")
 		(property "Sheetname" "4mA__20mA_module"
-			(at 199.39 123.7484 0)
+			(at 215.9 135.1784 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3204,7 +3214,7 @@
 			)
 		)
 		(property "Sheetfile" "4mA__20mA_module.kicad_sch"
-			(at 199.39 132.6646 0)
+			(at 215.9 144.0946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3214,7 +3224,7 @@
 			)
 		)
 		(pin "A_4mA_20mA_Out" output
-			(at 199.39 125.73 180)
+			(at 215.9 137.16 180)
 			(uuid "6efe7765-4739-4003-b7ab-65f8f40777d4")
 			(effects
 				(font
@@ -3224,7 +3234,7 @@
 			)
 		)
 		(pin "A_4mA__20mA_in" input
-			(at 219.71 129.54 0)
+			(at 236.22 140.97 0)
 			(uuid "e070b2b7-7821-43b8-891d-b39c1c221807")
 			(effects
 				(font
@@ -3332,7 +3342,7 @@
 		)
 	)
 	(sheet
-		(at 199.39 113.03)
+		(at 215.9 124.46)
 		(size 17.78 7.62)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3347,7 +3357,7 @@
 		)
 		(uuid "8e752283-c44a-4790-8997-93360c617970")
 		(property "Sheetname" "0v__32v__module"
-			(at 199.39 112.268 0)
+			(at 215.9 123.698 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3358,7 +3368,7 @@
 			)
 		)
 		(property "Sheetfile" "0v__32v__module.kicad_sch"
-			(at 199.39 119.9646 0)
+			(at 215.9 131.3946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3368,7 +3378,7 @@
 			)
 		)
 		(pin "A_0v__32v__in" input
-			(at 217.17 118.11 0)
+			(at 233.68 129.54 0)
 			(uuid "d8a629a8-351b-41b7-835a-ba761a4c0214")
 			(effects
 				(font
@@ -3378,7 +3388,7 @@
 			)
 		)
 		(pin "D_0v__32v__" output
-			(at 199.39 115.57 180)
+			(at 215.9 127 180)
 			(uuid "9997f342-2c18-4340-bd37-44522c9ba433")
 			(effects
 				(font
@@ -3396,7 +3406,7 @@
 		)
 	)
 	(sheet
-		(at 199.39 135.89)
+		(at 171.45 119.38)
 		(size 17.78 21.59)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3412,7 +3422,7 @@
 		)
 		(uuid "bfce3cdf-a5ca-4ef1-b398-775060fdfec5")
 		(property "Sheetname" "Digit_module"
-			(at 199.39 135.1784 0)
+			(at 171.45 118.6684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3423,7 +3433,7 @@
 			)
 		)
 		(property "Sheetfile" "Digit_module.kicad_sch"
-			(at 199.39 158.0646 0)
+			(at 171.45 141.5546 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3433,7 +3443,7 @@
 			)
 		)
 		(pin "Digit_input1_--" output
-			(at 199.39 139.7 180)
+			(at 171.45 123.19 180)
 			(uuid "e36ceede-018a-4126-a7ba-ca4a21bd5590")
 			(effects
 				(font
@@ -3443,7 +3453,7 @@
 			)
 		)
 		(pin "Digit_input_2--" input
-			(at 199.39 142.24 180)
+			(at 171.45 125.73 180)
 			(uuid "61ce5892-f3b6-4e70-8109-6b3e0bba9f3d")
 			(effects
 				(font
@@ -3453,7 +3463,7 @@
 			)
 		)
 		(pin "D_IN_1++" input
-			(at 217.17 146.05 0)
+			(at 189.23 129.54 0)
 			(uuid "19cda519-1307-4e45-8210-5e531cabd1e2")
 			(effects
 				(font
@@ -3463,7 +3473,7 @@
 			)
 		)
 		(pin "D_IN_1--" input
-			(at 217.17 148.59 0)
+			(at 189.23 132.08 0)
 			(uuid "9d21b686-e267-4c7d-9bbc-490dd183493f")
 			(effects
 				(font
@@ -3473,7 +3483,7 @@
 			)
 		)
 		(pin "D_IN_2++" input
-			(at 217.17 152.4 0)
+			(at 189.23 135.89 0)
 			(uuid "fa56c21e-277c-4f56-a7b8-1a0654446f0e")
 			(effects
 				(font
@@ -3483,7 +3493,7 @@
 			)
 		)
 		(pin "D_IN_2--" input
-			(at 217.17 154.94 0)
+			(at 189.23 138.43 0)
 			(uuid "0ab02d98-3b50-4a6c-bf0b-7486bfab5751")
 			(effects
 				(font
@@ -3546,8 +3556,53 @@
 		)
 	)
 	(sheet
-		(at 199.39 86.36)
-		(size 17.78 11.43)
+		(at 82.55 146.05)
+		(size 16.51 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "cbcf208c-e443-4aaa-a191-d1f768e4cf7c")
+		(property "Sheetname" "OUT__4__20"
+			(at 82.55 145.3384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "OUT__4__20.kicad_sch"
+			(at 82.55 159.3346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Nivara Controls"
+				(path "/42622735-4343-4315-af64-a45701a752b6/711b914f-41ac-411e-bef3-8ade05c9a19b"
+					(page "15")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 215.9 95.25)
+		(size 17.78 13.97)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -3561,7 +3616,7 @@
 		)
 		(uuid "d6d4f6f7-bfd3-43e1-a94b-2993a59c2239")
 		(property "Sheetname" "Input_PNP"
-			(at 199.39 86.106 0)
+			(at 215.9 94.996 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3572,7 +3627,7 @@
 			)
 		)
 		(property "Sheetfile" "Input_PNP.kicad_sch"
-			(at 199.39 98.3746 0)
+			(at 215.9 107.2646 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3581,9 +3636,9 @@
 				(hide yes)
 			)
 		)
-		(pin "PNP__INPUT_ESP" output
-			(at 199.39 95.25 180)
-			(uuid "3ad673ae-8399-4ef0-9639-c4a00c322f93")
+		(pin "PNP_Digit_1" output
+			(at 215.9 97.79 180)
+			(uuid "dfd1f779-6956-4ba9-83a4-9b3e05813612")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3591,9 +3646,19 @@
 				(justify left)
 			)
 		)
-		(pin "PNP__IN_+" input
-			(at 217.17 88.9 0)
-			(uuid "4941dd66-0111-4869-a922-c434beb91d3f")
+		(pin "PNP_Digit_2" output
+			(at 215.9 100.33 180)
+			(uuid "e3cdb66d-c6ec-4e03-82cd-086f234b83ee")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PNP_in_1" input
+			(at 233.68 105.41 0)
+			(uuid "c8e30aa1-8c3a-4721-ab15-51b0ff584246")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3601,9 +3666,9 @@
 				(justify right)
 			)
 		)
-		(pin "PNP__IN_-" input
-			(at 217.17 91.44 0)
-			(uuid "5c3a25b1-dea3-41cf-8bda-f223311b9ac6")
+		(pin "PNP_in_2" input
+			(at 233.68 107.95 0)
+			(uuid "e18f12a7-dc68-4388-b103-53fa69960273")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3620,8 +3685,8 @@
 		)
 	)
 	(sheet
-		(at 111.76 143.51)
-		(size 36.83 15.24)
+		(at 199.39 73.66)
+		(size 12.7 10.16)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -3636,22 +3701,54 @@
 		)
 		(uuid "dc01e10b-d249-42c3-b8d8-c88003a59ea8")
 		(property "Sheetname" "0mA__10mA_module"
-			(at 111.76 142.7984 0)
+			(at 199.39 72.9484 0)
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
 				)
 				(justify left bottom)
 			)
 		)
 		(property "Sheetfile" "0mA__10mA_module.kicad_sch"
-			(at 111.76 159.3346 0)
+			(at 199.39 84.4046 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
 				(hide yes)
+			)
+		)
+		(pin "SCLK" bidirectional
+			(at 199.39 76.2 180)
+			(uuid "5ca57ed0-530d-4bf3-9958-c2e56897747d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SDA" bidirectional
+			(at 199.39 78.74 180)
+			(uuid "e93637a2-3a6e-4615-8245-5cba84fb74f4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SEL" output
+			(at 199.39 81.28 180)
+			(uuid "97dda495-83a0-4cfe-935c-27b59d4ace20")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances
