@@ -1361,8 +1361,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "35ecfdef-f1f8-45a1-93a8-f103c242550a")
-		(property "Reference" "R5"
-			(at 97.79 68.834 90)
+		(property "Reference" "R1"
+			(at 97.536 67.056 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1370,12 +1370,11 @@
 			)
 		)
 		(property "Value" "R_0603"
-			(at 97.79 67.31 90)
+			(at 97.536 68.834 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "PCM_Resistor_SMD_AKL:R_0603_1608Metric"
@@ -1431,7 +1430,7 @@
 		(instances
 			(project "Nivara Controls"
 				(path "/42622735-4343-4315-af64-a45701a752b6/711b914f-41ac-411e-bef3-8ade05c9a19b/1d56f2ae-86b2-4303-b6cf-39a6bc4c3d5f"
-					(reference "R5")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -1511,7 +1510,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "4aca8326-9f0c-4ac1-b50b-3c1c185ccac8")
 		(property "Reference" "OC1"
 			(at 132.08 77.4699 0)
@@ -1523,7 +1521,7 @@
 			)
 		)
 		(property "Value" "LTV-357T-B"
-			(at 132.08 80.0099 0)
+			(at 132.08 79.248 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1657,8 +1655,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c760c375-c5b1-410c-b7e4-a21bc2934992")
-		(property "Reference" "R6"
-			(at 125.73 67.818 0)
+		(property "Reference" "R2"
+			(at 131.064 64.516 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1666,12 +1664,11 @@
 			)
 		)
 		(property "Value" "R_0603"
-			(at 120.904 67.31 90)
+			(at 133.35 66.294 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "PCM_Resistor_SMD_AKL:R_0603_1608Metric"
@@ -1727,7 +1724,7 @@
 		(instances
 			(project "Nivara Controls"
 				(path "/42622735-4343-4315-af64-a45701a752b6/711b914f-41ac-411e-bef3-8ade05c9a19b/1d56f2ae-86b2-4303-b6cf-39a6bc4c3d5f"
-					(reference "R6")
+					(reference "R2")
 					(unit 1)
 				)
 			)

@@ -686,7 +686,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 85.09) (xy 81.28 85.09)
+			(xy 101.6 85.09) (xy 85.09 85.09)
 		)
 		(stroke
 			(width 0)
@@ -736,7 +736,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 85.09) (xy 154.94 85.09)
+			(xy 119.38 85.09) (xy 127 85.09)
 		)
 		(stroke
 			(width 0)
@@ -846,7 +846,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 85.09) (xy 81.28 87.63)
+			(xy 85.09 85.09) (xy 85.09 87.63)
 		)
 		(stroke
 			(width 0)
@@ -866,7 +866,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 85.09) (xy 154.94 83.82)
+			(xy 127 85.09) (xy 127 82.55)
 		)
 		(stroke
 			(width 0)
@@ -1123,7 +1123,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 81.28 87.63 0)
+		(at 85.09 87.63 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1131,7 +1131,7 @@
 		(dnp no)
 		(uuid "38c9cc75-bafc-4581-889d-a0d82be23a97")
 		(property "Reference" "#PWR012"
-			(at 81.28 93.98 0)
+			(at 85.09 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1140,7 +1140,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 81.28 91.44 0)
+			(at 85.09 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1148,7 +1148,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 81.28 87.63 0)
+			(at 85.09 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1157,7 +1157,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 81.28 87.63 0)
+			(at 85.09 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1166,7 +1166,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 81.28 87.63 0)
+			(at 85.09 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1343,7 +1343,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 154.94 83.82 0)
+		(at 127 82.55 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1352,7 +1352,7 @@
 		(fields_autoplaced yes)
 		(uuid "d2a5baaa-2980-4de8-9ccf-05b4dce13f97")
 		(property "Reference" "#PWR09"
-			(at 154.94 87.63 0)
+			(at 127 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1361,7 +1361,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 154.94 78.74 0)
+			(at 127 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1369,7 +1369,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 154.94 83.82 0)
+			(at 127 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1378,7 +1378,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 154.94 83.82 0)
+			(at 127 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1387,7 +1387,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 154.94 83.82 0)
+			(at 127 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)

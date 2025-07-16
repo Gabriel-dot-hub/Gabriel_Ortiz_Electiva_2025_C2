@@ -668,6 +668,26 @@
     [
       "046ce629-3f56-4f48-b2c7-d6e93ff2fbb5",
       "RLY_MODULE"
+    ],
+    [
+      "052994b8-ae64-4dbc-9745-12b0d0d230e0",
+      "0v__10v_Module"
+    ],
+    [
+      "8e752283-c44a-4790-8997-93360c617970",
+      "0v__32v__module"
+    ],
+    [
+      "443be838-dc57-4801-ae0f-9729ee2511c1",
+      "4mA__20mA_module"
+    ],
+    [
+      "bfce3cdf-a5ca-4ef1-b398-775060fdfec5",
+      "Digit_module"
+    ],
+    [
+      "dc01e10b-d249-42c3-b8d8-c88003a59ea8",
+      "0mA__10mA_module"
     ]
   ],
   "text_variables": {}
