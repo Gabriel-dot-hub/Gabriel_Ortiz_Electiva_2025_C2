@@ -1630,6 +1630,12 @@
 		(color 0 0 0 0)
 		(uuid "d2815d2e-2cad-44a4-9673-16224ab8e29a")
 	)
+	(junction
+		(at 67.31 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f9d0ddfb-9f7f-4f3c-b09d-5e98ae21c1f1")
+	)
 	(wire
 		(pts
 			(xy 163.83 132.08) (xy 166.37 132.08)
@@ -2272,6 +2278,16 @@
 	)
 	(wire
 		(pts
+			(xy 67.31 109.22) (xy 78.74 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9108245f-af87-44c9-9659-54ccc0a4176f")
+	)
+	(wire
+		(pts
 			(xy 193.04 88.9) (xy 170.18 88.9)
 		)
 		(stroke
@@ -2299,6 +2315,16 @@
 			(type default)
 		)
 		(uuid "9a41cbe8-3193-404a-a61a-7b76c6ce63e3")
+	)
+	(wire
+		(pts
+			(xy 63.5 107.95) (xy 67.31 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9af1a911-d9cd-4f35-926c-51f554971531")
 	)
 	(wire
 		(pts
@@ -2399,6 +2425,16 @@
 			(type default)
 		)
 		(uuid "b550f865-6b2b-4849-bd1a-75d950a5ad5a")
+	)
+	(wire
+		(pts
+			(xy 67.31 96.52) (xy 67.31 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b93b6033-ec58-48ca-968e-a6640b96292d")
 	)
 	(wire
 		(pts
@@ -2562,6 +2598,16 @@
 	)
 	(wire
 		(pts
+			(xy 67.31 107.95) (xy 67.31 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e1470d26-5f4e-464e-801b-929feee727c8")
+	)
+	(wire
+		(pts
 			(xy 180.34 109.22) (xy 180.34 119.38)
 		)
 		(stroke
@@ -2579,6 +2625,16 @@
 			(type default)
 		)
 		(uuid "e3142acb-7dbc-4102-8e61-679198e1f824")
+	)
+	(wire
+		(pts
+			(xy 67.31 106.68) (xy 67.31 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e57e6efc-3eb0-432f-b465-1db0921620c0")
 	)
 	(wire
 		(pts
@@ -2760,7 +2816,7 @@
 	)
 	(hierarchical_label "RUN{slash}STOP"
 		(shape bidirectional)
-		(at 74.93 60.96 180)
+		(at 63.5 107.95 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3023,6 +3079,92 @@
 		)
 	)
 	(symbol
+		(lib_id "PCM_Resistor_US_AKL:R_0603")
+		(at 67.31 102.87 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3ea5e329-9f8f-46d0-9125-513864349759")
+		(property "Reference" "R25"
+			(at 69.85 101.5999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "R_0603"
+			(at 69.85 103.378 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_Resistor_SMD_AKL:R_0603_1608Metric"
+			(at 67.31 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 67.31 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "SMD 0603 Chip Resistor, US Symbol, Alternate KiCad Library"
+			(at 67.31 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" ""
+			(at 67.31 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Capacidad" "10k"
+			(at 71.628 105.156 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "4f2f70a0-7344-4b16-af36-9ada70362ed5")
+		)
+		(pin "2"
+			(uuid "0e3fe980-7ba1-4824-b11a-630997a36181")
+		)
+		(instances
+			(project "Nivara Controls"
+				(path "/42622735-4343-4315-af64-a45701a752b6/711b914f-41ac-411e-bef3-8ade05c9a19b"
+					(reference "R25")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 102.87 121.92 0)
 		(unit 1)
@@ -3235,6 +3377,72 @@
 			(project "Nivara Controls"
 				(path "/42622735-4343-4315-af64-a45701a752b6/711b914f-41ac-411e-bef3-8ade05c9a19b"
 					(reference "#PWR011")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 67.31 96.52 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "500fbe86-e8f0-4c1a-9cb7-90e6a330786e")
+		(property "Reference" "#PWR062"
+			(at 67.31 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 67.31 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 67.31 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 67.31 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 67.31 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d3e652eb-b49d-4f9d-a507-01b1e76f577e")
+		)
+		(instances
+			(project "Nivara Controls"
+				(path "/42622735-4343-4315-af64-a45701a752b6/711b914f-41ac-411e-bef3-8ade05c9a19b"
+					(reference "#PWR062")
 					(unit 1)
 				)
 			)
