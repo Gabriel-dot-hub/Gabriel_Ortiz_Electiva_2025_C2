@@ -1708,10 +1708,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "01b14b32-306a-46d4-b602-52d4c21f2565")
-		(property "Reference" "D1"
-			(at 98.4885 66.04 0)
+		(property "Reference" "D2"
+			(at 98.552 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1765,7 +1764,7 @@
 		(instances
 			(project ""
 				(path "/42622735-4343-4315-af64-a45701a752b6/711b914f-41ac-411e-bef3-8ade05c9a19b/0e992bd9-df1d-46c0-8773-93ffa0ff8af8"
-					(reference "D1")
+					(reference "D2")
 					(unit 1)
 				)
 			)

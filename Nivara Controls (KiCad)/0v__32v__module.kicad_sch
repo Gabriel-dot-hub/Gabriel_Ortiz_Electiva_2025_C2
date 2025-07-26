@@ -1121,7 +1121,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1d1162ea-890f-4daa-9f69-df32bcdf39cb")
-		(property "Reference" "D4"
+		(property "Reference" "D20"
 			(at 122.174 52.832 0)
 			(effects
 				(font
@@ -1188,7 +1188,7 @@
 		(instances
 			(project "Nivara Controls"
 				(path "/42622735-4343-4315-af64-a45701a752b6/711b914f-41ac-411e-bef3-8ade05c9a19b/8e752283-c44a-4790-8997-93360c617970"
-					(reference "D4")
+					(reference "D20")
 					(unit 1)
 				)
 			)
