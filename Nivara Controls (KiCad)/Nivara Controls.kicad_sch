@@ -1503,6 +1503,16 @@
 	)
 	(wire
 		(pts
+			(xy 127 81.28) (xy 134.62 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "29115b6c-a534-4159-8bba-7a47aa1d0f6b")
+	)
+	(wire
+		(pts
 			(xy 201.93 149.86) (xy 205.74 149.86)
 		)
 		(stroke
@@ -1600,16 +1610,6 @@
 			(type default)
 		)
 		(uuid "6feff88a-d3be-406e-a807-74b1ac69762f")
-	)
-	(wire
-		(pts
-			(xy 130.81 83.82) (xy 134.62 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "71e272f7-793f-40ca-8068-56b479359fb1")
 	)
 	(wire
 		(pts
@@ -1753,16 +1753,6 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 81.28) (xy 134.62 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ca2dad94-e008-4dae-b4c5-ea3a3d1f789e")
-	)
-	(wire
-		(pts
 			(xy 134.62 81.28) (xy 134.62 78.74)
 		)
 		(stroke
@@ -1800,6 +1790,16 @@
 			(type default)
 		)
 		(uuid "e9c084e9-9cfe-4d3a-a431-369bad9ced82")
+	)
+	(wire
+		(pts
+			(xy 127 83.82) (xy 134.62 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f4905754-af29-4bf0-96f7-63cea429dc6a")
 	)
 	(wire
 		(pts
@@ -3018,7 +3018,7 @@
 	)
 	(symbol
 		(lib_id "PCM_SL_Screw_Terminal:Screw_Terminal_2_P5.00mm")
-		(at 127 82.55 180)
+		(at 123.19 82.55 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3026,7 +3026,7 @@
 		(dnp no)
 		(uuid "fdb6e509-505b-4b69-a9b7-4cdbaea6a065")
 		(property "Reference" "J1"
-			(at 122.174 83.058 0)
+			(at 118.364 83.058 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3034,7 +3034,7 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_2_P5.00mm"
-			(at 126.365 77.47 0)
+			(at 122.555 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3043,7 +3043,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal"
-			(at 125.73 76.2 0)
+			(at 121.92 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3052,7 +3052,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 127 82.55 0)
+			(at 123.19 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3061,7 +3061,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 127 82.55 0)
+			(at 123.19 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3070,7 +3070,7 @@
 			)
 		)
 		(property "Part Number" ""
-			(at 127 82.55 0)
+			(at 123.19 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)

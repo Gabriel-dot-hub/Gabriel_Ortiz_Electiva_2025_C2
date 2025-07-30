@@ -2206,6 +2206,16 @@
 	)
 	(wire
 		(pts
+			(xy 173.99 49.53) (xy 173.99 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c4bd6e3c-6a93-40db-88f2-289d610bdde4")
+	)
+	(wire
+		(pts
 			(xy 173.99 72.39) (xy 189.23 72.39)
 		)
 		(stroke
@@ -2213,16 +2223,6 @@
 			(type default)
 		)
 		(uuid "c72d6431-d6c3-47da-a5d9-8907044f354e")
-	)
-	(wire
-		(pts
-			(xy 173.99 58.42) (xy 173.99 60.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cb3f17a6-3b80-4d16-a1e4-fd5bf6980402")
 	)
 	(wire
 		(pts
@@ -2460,7 +2460,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Keystone_5015_Micro_Mini"
 			(at 101.6 69.85 0)
 			(effects
 				(font
@@ -2675,7 +2675,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 173.99 58.42 0)
+		(at 173.99 49.53 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2683,7 +2683,7 @@
 		(dnp no)
 		(uuid "1dec28a4-f2da-46e2-8583-6b7d0c19848b")
 		(property "Reference" "#PWR020"
-			(at 173.99 62.23 0)
+			(at 173.99 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2692,7 +2692,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 173.99 54.102 0)
+			(at 173.99 45.212 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2700,7 +2700,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 173.99 58.42 0)
+			(at 173.99 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2709,7 +2709,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 173.99 58.42 0)
+			(at 173.99 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2718,7 +2718,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 173.99 58.42 0)
+			(at 173.99 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2843,7 +2843,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
 			(at 173.99 64.77 0)
 			(effects
 				(font
@@ -3436,7 +3436,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Keystone_5015_Micro_Mini"
 			(at 153.67 83.82 0)
 			(effects
 				(font
@@ -3503,7 +3503,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Keystone_5015_Micro_Mini"
 			(at 184.15 58.42 0)
 			(effects
 				(font
@@ -3570,7 +3570,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Keystone_5015_Micro_Mini"
 			(at 207.01 66.04 0)
 			(effects
 				(font

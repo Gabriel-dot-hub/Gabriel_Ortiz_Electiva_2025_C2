@@ -1783,7 +1783,7 @@
 				)
 			)
 		)
-		(property "Footprint" "EasyEDA:ESOP-8_L4.9-W3.9-P1.27-LS6.0-BL-EP"
+		(property "Footprint" "EastEDA:GP8303-TC50-EW"
 			(at 120.65 80.01 0)
 			(effects
 				(font
