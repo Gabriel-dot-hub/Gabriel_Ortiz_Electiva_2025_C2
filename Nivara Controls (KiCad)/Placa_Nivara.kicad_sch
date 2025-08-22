@@ -1736,7 +1736,7 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 91.44) (xy 259.08 91.44)
+			(xy 256.54 91.44) (xy 261.62 91.44)
 		)
 		(stroke
 			(width 0)
@@ -1876,7 +1876,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 102.87) (xy 248.92 102.87)
+			(xy 246.38 102.87) (xy 251.46 102.87)
 		)
 		(stroke
 			(width 0)
@@ -2881,7 +2881,7 @@
 	)
 	(hierarchical_label "Analog_4_20_OUT_1"
 		(shape output)
-		(at 259.08 91.44 0)
+		(at 261.62 91.44 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2947,7 +2947,7 @@
 	)
 	(hierarchical_label "Analog_0_10_OUT_1"
 		(shape output)
-		(at 248.92 102.87 0)
+		(at 251.46 102.87 0)
 		(effects
 			(font
 				(size 1.27 1.27)
